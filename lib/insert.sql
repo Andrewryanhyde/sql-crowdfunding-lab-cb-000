@@ -13,7 +13,7 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 
 INSERT INTO users (name, age) VALUES ("Robert", 92);
 INSERT INTO users (name, age) VALUES ("Samantha", 45);
-INSERT INTO users (name, age) VALUES ("Jenny",23 );
+INSERT INTO users (name, age) VALUES ("Jenny",23);
 INSERT INTO users (name, age) VALUES ("James", 34);
 INSERT INTO users (name, age) VALUES ("Dan", 56);
 INSERT INTO users (name, age) VALUES ("Bob", 12);
